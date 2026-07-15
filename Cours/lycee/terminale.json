@@ -1,0 +1,17 @@
+{
+    "niveau" : "Terminale",
+    "math":{
+        "nombre_complexe":"https://codetranscendence-design.github.io/Ressources/Lycee/Terminale/annales_bepcmaths_2.pdf",
+        "fonction":"https://codetranscendence-design.github.io/Ressources/Lycee/Terminale/Cours-statistique.pdf"
+
+    },
+    "svt":{
+         "statistique":"https://codetranscendence-design.github.io/Ressources/Lycee/Terminale/Macroéconomie--L2-.pdf",
+        "fonction_lineaire":"https://codetranscendence-design.github.io/Ressources/Lycee/Terminale/2021_bac_C.pdf"
+     
+    },
+    "histoire":{
+        "primitive":"https://codetranscendence-design.github.io/Ressources/Lycee/Terminale/Macroéconomie.pdf",
+        "genétique":"https://codetranscendence-design.github.io/Ressources/Lycee/Terminale/diaeinf2021d6_module-1_fr.pdf"
+    }
+}
