@@ -1,16 +1,12 @@
 {
-    "math":{
-        "nombre_complexe":"https://codetranscendence-design.github.io/Malongi/Lycee/Terminale/annales_bepcmaths_2.pdf",
-        "fonction":"https://codetranscendence-design.github.io/Malongi/Lycee/Terminale/Cours-statistique.pdf"
-
-    },
-    "svt":{
-         "statistique":"https://codetranscendence-design.github.io/Malongi/Lycee/Terminale/Macroéconomie--L2-.pdf",
-        "fonction_lineaire":"https://codetranscendence-design.github.io/Malongi/Lycee/Terminale/2021_bac_C.pdf"
-     
-    },
-    "histoire":{
-        "primitive":"https://codetranscendence-design.github.io/Malongi/Lycee/Terminale/Macroéconomie.pdf",
-        "genétique":"https://codetranscendence-design.github.io/Malongi/Lycee/Terminale/diaeinf2021d6_module-1_fr.pdf"
-    }
+  "math": [
+    { "name": "nombre_complexe", "link": "https://codetranscendence-design.github.io/Malongi/Lycee/Terminale/annales_bepcmaths_2.pdf" },
+    { "name": "fonction", "link": "https://codetranscendence-design.github.io/Malongi/Lycee/Terminale/Cours-statistique.pdf" }
+  ],
+  "svt": [
+    { "name": "genetique", "link": "https://lien-vers-svt.pdf" }
+  ],
+  "Histoire": [
+    { "name": "guerre_mondiale", "link": "https://lien-vers-histoire.pdf" }
+  ]
 }
